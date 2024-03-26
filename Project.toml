@@ -33,7 +33,7 @@ Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
 [compat]
 ArgParse = "1.1.4"
-CUDA = "3"
+CUDA = "3, 4, 5"
 Colors = "0.12.7"
 CommonRLInterface = "0.3.1"
 Crayons = "4.0.4"
@@ -53,7 +53,7 @@ Setfield = "0.7.0, 0.8, 1"
 StaticArrays = "1.1.1"
 ThreadPools = "2.0.0"
 Zygote = "0.6.10"
-julia = "1.6"
+julia = "1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
